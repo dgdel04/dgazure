@@ -1,6 +1,6 @@
 Create a resource group for the deployment.
 
-az group create --name hub-spoke --location eastus (CLI)
+az group create --name hub-spoke --location eastus
 
 Basic deployment
 
